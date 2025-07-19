@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Νικολία Αλεξανδράτου
+title: Επιμελώς
 description: Επαγγελματική επιμέλεια κειμένων και βιβλίων
 url: "https://nikoliaalexandratou.github.io"
 author:
   name: Νικολία Αλεξανδράτου
   bio: Πολυετής εμπειρία στην επιμέλεια κειμένων
-
-email: nikolia.alexandratou@gmail.com
+  email: nikolia.alexandratou@gmail.com
+  phone: 6973642656
 minimal_mistakes_skin: default
 search: true
 
@@ -57,15 +57,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
-
-author:
-  name   : "Νικολία Αλεξανδράτου"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Πολυετής εμπειρία στην επιμελεια βιβλίων"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
 
 footer:
   links:
