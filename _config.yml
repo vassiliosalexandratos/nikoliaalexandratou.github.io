@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Επιμελώς
-description: Επαγγελματική επιμέλεια κειμένων και βιβλίων
-url: "https://nikoliaalexandratou.github.io"
+description: Επαγγελματική επιμέλεια κειμένων και βιβλίων με βάση την Πάτρα
+url: "https://vassiliosalexandratos.github.io/nikoliaalexandratou.github.io/"
 lang: gr
 author:
   name: Νικολία Αλεξανδράτου
